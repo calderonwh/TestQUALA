@@ -1,7 +1,4 @@
-CREATE DATABASE DbaQUALA
-Go
 
-Use DbaQUALA
 
 CREATE TABLE SucursalesTest (
     IdSucursal INT IDENTITY(1,1) PRIMARY KEY,
