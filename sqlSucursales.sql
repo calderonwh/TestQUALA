@@ -1,4 +1,7 @@
+CREATE DATABASE TestDB
+Go
 
+Use TestDB
 
 CREATE TABLE SucursalesTest (
     IdSucursal INT IDENTITY(1,1) PRIMARY KEY,
